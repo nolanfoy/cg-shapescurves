@@ -115,6 +115,14 @@ class Renderer {
             ctx.fillStyle = '#ff0000';
             ctx.fillRect(lnp5.x-2.5,lnp5.y-2.5,5,5);
             ctx.fillRect(lnp6.x-2.5,lnp6.y-2.5,5,5);
+            ctx.fillStyle = '#0000ff';
+            ctx.fillRect(np1.x-2.5,np1.y-2.5,5,5);
+            ctx.fillRect(np2.x-2.5,np2.y-2.5,5,5);
+            ctx.fillRect(np3.x-2.5,np3.y-2.5,5,5);
+            ctx.fillRect(np4.x-2.5,np4.y-2.5,5,5);
+            ctx.fillRect(lp1.x-2.5,lp1.y-2.5,5,5);
+            ctx.fillRect(lp2.x-2.5,lp2.y-2.5,5,5);
+            
         }
     }
 
